@@ -1,0 +1,5 @@
+------------------
+Datos Resgistrados
+------------------
+Nombres y Apellido......: Marco Lucana
+Genero..................: Masculino
